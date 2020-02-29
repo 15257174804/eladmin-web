@@ -27,7 +27,6 @@
         <span>菜单UniqueOpened</span>
         <el-switch v-model="uniqueOpened" class="drawer-switch" />
       </div>
-
     </div>
   </div>
 </template>
